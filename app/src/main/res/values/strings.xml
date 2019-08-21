@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bar Volume Kotlin</string>
+    <string name="length">Panjang</string>
+    <string name="type_length">Masukkan panjang</string>
+    <string name="width">Lebar</string>
+    <string name="type_width">Masukkan lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="type_height">Masukkan tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="empty_field_error_message">Field ini tidak boleh kosong</string>
+    <string name="invalid_number_error_message">Field ini harus menggunakan nomor yang valid</string>
+</resources>
